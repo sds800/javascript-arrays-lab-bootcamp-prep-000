@@ -1,7 +1,7 @@
 const app = "I don't do much."
 
-function destructivelyAppendKitten(ralph){
+function destructivelyAppendKitten(name){
   
-  push()
+  Kitten.push("wonder woman")
   
 }
