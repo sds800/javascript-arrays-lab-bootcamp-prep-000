@@ -38,5 +38,5 @@ function prependKitten(name){
 
 function removeLastKitten(){
   
-  return kttens.slice-1 
+  return kttens.slice(0) 
 }
